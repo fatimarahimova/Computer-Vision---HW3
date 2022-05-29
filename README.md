@@ -1,1 +1,3 @@
-# CV-HW3
+# Computer Vision - Homework 3
+Canny Edge Detection
+Convolutional Networks for Edge Detection
